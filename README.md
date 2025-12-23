@@ -13,7 +13,6 @@
 
 - [x] **96.4% validation accuracy** (improved from 78% baseline - **18.4% increase**)
 - [x] **$105K annual cost savings** through complete process automation
-- [x] **~200 lines of duplicate code eliminated** via utility logic consolidation
 - [x] **Dual-layer AI approach**: Azure Document Intelligence + GPT-4o Vision fallback
 - [x] **Production deployment** processing thousands of LOAs monthly in U.S. energy sector
 - [x] **Handwritten signature detection** using advanced computer vision
