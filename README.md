@@ -202,7 +202,7 @@ The system uses an innovative two-layer approach to maximize accuracy while mini
 │      - Date within acceptable range                     │
 │      - Complete customer information                    │
 │                                                          │
-│    ~200 lines of duplicate code eliminated!             │
+│                │
 └─────────────────────┬───────────────────────────────────┘
                       │
                       ▼
@@ -327,7 +327,7 @@ System automatically detects utility from document and applies correct rules.
 
 ---
 
-## 📊 Multi-Region Support
+## Multi-Region Support
 
 - **Great Lakes Region**: OH, MI, IL
 - **New England Region**: ME, MA, NH, RI, CT
